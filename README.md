@@ -19,8 +19,3 @@ on Wikipedia comments from the Kaggle Toxic Comment Classification dataset.
       4. pickle
       5. csv
       6. nltk
-
-
-#Dataset link: 
-==============
-https://drive.google.com/file/d/1Sr-UszXZID-0pj_4-AXbI_iZTRBkHZZ1/view?usp=sharing
