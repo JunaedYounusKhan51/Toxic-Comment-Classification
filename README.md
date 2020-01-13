@@ -10,3 +10,17 @@ Regression (LR), K Nearest Neighbors (K-NN), NB-LR, Convolutional Neural Network
 (CNN), Long Short-Term Memory Networks (LSTM), Bi-directional Long Short-Term
 Memory Networks (Bi-LSTM) on identifying toxicity in text. We evaluated our approaches
 on Wikipedia comments from the Kaggle Toxic Comment Classification dataset.
+
+#Depnedencies:
+============== 
+      1. pandas
+      2. keras
+      3. sklearn
+      4. pickle
+      5. csv
+      6. nltk
+
+
+#Dataset link: 
+==============
+https://drive.google.com/file/d/1Sr-UszXZID-0pj_4-AXbI_iZTRBkHZZ1/view?usp=sharing
